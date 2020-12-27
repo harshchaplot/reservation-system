@@ -1,4 +1,4 @@
-# reservation-system
+# Reservation-System
 Project hosted at https://online-reservation-system-0.herokuapp.com/
 
 
